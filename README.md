@@ -12,3 +12,6 @@ I installed Python from the official website and now needed an IDE. In the video
 Day 2 -
 Today, my main focus will be on continuing to watch this video lesson.
 Today i also managed to create a very basic calculator and a mini Mad Libs game. Additionally, I learned a lot about lists. I'm excited and hopeful that Day 3 will be even more enjoyable and engaging
+
+Day 3 -
+I didn't have much time today, so I was only able to study for a short while. My project folder is starting to fill up, and the organization is still a bit unclear. I will make an effort to improve it later on.
