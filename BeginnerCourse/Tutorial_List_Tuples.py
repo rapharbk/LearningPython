@@ -1,4 +1,5 @@
 #working with list
+#usamos [] para criar Listas
 friends = ["Fabio", "Hique", "Lenon", "thiago", 24, True]                                                #é possivel colocar de tudo, string, numeros, boolean
              #0       #1       #2        #3     #4    #5                                             #todos as coisas na lista tem uma posição index
              #-6      #-5      #-4       #-3    #-2   #-1
@@ -70,3 +71,16 @@ print("")
 amigos2 = amigos.copy()                                          #com copy() podemos copiar uma lista
 print(amigos2)
 print("")
+
+
+#Tuples, usamos () em Tuples
+coordenates = (3, 7)                                            #tuples é um tipo de lista, porem com algumas diferenças: Ela é imutavel! não pode ser alterada dps de criada, não conseguimos alterar ela. 
+              #0  #1                                           #exemplo: coordenates[1] = 10  isso não funcionará porque os valores não podem ser alterados
+           
+print(coordenates[0])
+
+#Tuples são usamos para dados que nunca serão mudados, por isso coordenadas são um otimo exemplo.
+#Tuples are used for data that will never change, so coordinates are a great example.
+
+#é possivel criar uma lista de Tuples | is possible to create a list of tuples.
+listcoordenates = [(3,7), (9,13), (24,42)]
