@@ -13,3 +13,18 @@ def say_hi(name, age):
 #to callout a function
 say_hi("mike", 32)
 say_hi("scooby", 21)
+print("")
+
+
+
+#Return Statement
+
+def cube(num):
+    return num*num*num
+
+
+result = cube(4)
+print(result)
+print("")
+
+

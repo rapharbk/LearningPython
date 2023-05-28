@@ -15,3 +15,6 @@ Today i also managed to create a very basic calculator and a mini Mad Libs game.
 
 ### Day 3 -
 I didn't have much time today, so I was only able to study for a short while. My project folder is starting to fill up, and the organization is still a bit unclear. I will make an effort to improve it later on.
+
+### Day 4 -
+Today, I dedicated about 2 hours to studying. We worked on creating a game called "SecretWord," and later on, I attempted to make an improved version by adding hints. It might not be the most impressive thing in the world, but it's functioning, which is definitely a positive outcome.
