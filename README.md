@@ -18,3 +18,6 @@ I didn't have much time today, so I was only able to study for a short while. My
 
 ### Day 4 -
 Today, I dedicated about 2 hours to studying. We worked on creating a game called "SecretWord," and later on, I attempted to make an improved version by adding hints. It might not be the most impressive thing in the world, but it's functioning, which is definitely a positive outcome.
+
+### Day 5 -
+I delved deeper into concepts such as loops, if-else statements, and arrays. I also began brainstorming creative ideas to implement with Python, aiming to practice and further enhance my skills.
