@@ -23,5 +23,4 @@ Today, I dedicated about 2 hours to studying. We worked on creating a game calle
 I delved deeper into concepts such as loops, if-else statements, and arrays. I also began brainstorming creative ideas to implement with Python, aiming to practice and further enhance my skills.
 
 ### Day 6 -
-Day 6 -
 Today, I encountered several issues with the imports, and I'm still unsure about the cause. I'll try to troubleshoot and fix it later. Despite this setback, the day was overall productive and positive. I'm almost done with watching the beginner's course.
