@@ -19,4 +19,4 @@ Import issues plagued Day 6, and although they remain unresolved, I remained pos
 
 Day 7 marked the completion of the beginner's course, instilling a strong comprehension of Python fundamentals. I acknowledged the necessity of practical application and planned to invent my own projects. I also expressed a desire to continue learning through intermediate and advanced Python videos.
 
-Throughout my Python learning journey, I demonstrated dedication, problem-solving skills, and adaptability. I remain eager to expand my knowledge and apply Python in practical scenarios.
+Throughout my Python learning journey. I remain eager to expand my knowledge and apply Python in practical scenarios.
